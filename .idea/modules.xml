@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatis-generator-gui-master/mybatis-generator-gui.iml" filepath="$PROJECT_DIR$/mybatis-generator-gui-master/mybatis-generator-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tomato-of-life-query-builder.iml" filepath="$PROJECT_DIR$/.idea/tomato-of-life-query-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomato-of-life-query-builder-back/tomato-of-life-query-builder-back.iml" filepath="$PROJECT_DIR$/tomato-of-life-query-builder-back/tomato-of-life-query-builder-back.iml" />
+    </modules>
+  </component>
+</project>
